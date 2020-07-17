@@ -3,6 +3,8 @@
 import os
 import sys
 
+#Комментарий для теста Git'а
+
 
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'myfirst.settings')
